@@ -1,0 +1,3 @@
+- [Haiku](haiku.md) — A haiku about code and patience
+- [Subagents & Workflows](subagents_workflows.md) — Core concepts, use cases, and quality patterns
+- [Skill Standard Scripts](skill_scripts.md) — Mandatory package.json scripts for Biome, Bun, Drizzle skills
